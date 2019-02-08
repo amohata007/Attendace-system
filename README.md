@@ -1,4 +1,4 @@
-# faceRecognition
+# FaceRecognition
 
 This repository is for our team Creation For Innovation submission in SKIT RTU hackathon 2019
 
