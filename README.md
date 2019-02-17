@@ -1,6 +1,6 @@
 # FaceRecognition
 
-This repository is for our team Creation For Innovation submission in SKIT RTU hackathon 2019
+This repository is for our team Creation For Innovation submission in SKIT RTU hackathon 2019.
 
 This repository contains code for facial recognition using openCV and python with a tkinter gui interface. If you want to test the code then run train.py file
 
