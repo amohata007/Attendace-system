@@ -1,18 +1,22 @@
 # Jarvis: Intelligent Attendance System
 
-This repository is for our team Creation For Innovation submission in SKIT RTU hackathon 2019
+We worked on the problem statement given by the company "Naturals" at Skit Hackathon 2019.
+## Problem Statement: 
+ -> To create a intelligent attendance system.
+ -> To increase the productivity of service engineers.
 
-This repository contains code for facial recognition using openCV and python with a tkinter gui interface. If you want to test the code then run train.py file
+This repository contains code for Attendance Management using Facial recognition.
+
+## To try it:
+  1. Clone and download the repo.
+  2. Run 'train.py'
 
 Technology used :
--openCV (Opensource Computer Vision)
--Python
--tkinter GUI interface
-
-Here we am working on Face recognition based Attendance Management System by using OpenCV(Python). One can mark thier attendance by simply facing the camera. 
+  ->openCV (Opensource Computer Vision)
+  ->Python
+  ->tkinter GUI interface
 
 [![Jarvis: Intelligent Attendance System](https://github.com/abhilashk433/Attendance-system/blob/master/jarvisppt.png)](https://slides.com/abhilashkumar/deck-3#/ "Jarvis Slides")
-
 
 ## How it works :
 
