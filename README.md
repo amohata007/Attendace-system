@@ -15,7 +15,7 @@ This repository contains code for Attendance Management using Facial recognition
 
 ## To try it:
   1. Clone and download the repo.
-  2. Run 'train.py'
+  2. Run 'train.py'.
 
 
 Technology used :
