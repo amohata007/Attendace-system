@@ -1,7 +1,7 @@
 
 # Jarvis: Intelligent Attendance System.
 
-We worked on the problem statement given by the company "Naturals" at Skit Hackathon 2019
+We worked on the problem statement given by the company "Naturals" at Skit Hackathon 2019.
 ## Problem Statement: 
  -> To create a intelligent attendance system.
  -> To increase the productivity of service engineers.
