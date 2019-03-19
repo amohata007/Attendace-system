@@ -1,5 +1,5 @@
 
-# Jarvis: Intelligent Attendance System.
+# Jarvis: Intelligent Attendance System
 
 We worked on the problem statement given by the company "Naturals" at Skit Hackathon 2019.
 ## Problem Statement: 
