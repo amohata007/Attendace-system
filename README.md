@@ -6,7 +6,7 @@ We worked on the problem statement given by the company "Naturals" at Skit Hacka
  -> To create a intelligent attendance system.
  -> To increase the productivity of service engineers.
 
-# FaceRecognition
+# FaceRecognition 
 
 This repository is for our team Creation For Innovation submission in SKIT RTU hackathon 2019.
 
